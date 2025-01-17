@@ -16,3 +16,6 @@ Hanyang Univ. Dept. of Data Science Coding Study - Taewoo Kim
 * 문제집 별 가이드
   * Lv. 0 가이드 - [링크](https://github.com/twkim02/HYU_DS_Study/blob/main/slide/Lv0_guide.pdf)
   * Lv. 1 가이드 - [링크](https://github.com/twkim02/HYU_DS_Study/blob/main/slide/Lv1_guide.pdf)
+  * Lv. 2 가이드 - [링크](https://github.com/twkim02/HYU_DS_Study/blob/main/slide/Lv2_guide.pdf)
+
+* Lv.0 문제 C++ 예시 코드 - [링크](https://github.com/twkim02/HYU_DS_Study/tree/main/code_C%2B%2B)
